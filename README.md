@@ -14,3 +14,12 @@ print('addition: ',add)
 print('subtraction: ',subtraction)
 print('multiplication: ',multiplication)
 print('division: ',division)
+
+#task-2
+first_name=input('Enter your first name: ')
+last_name=input('Enter your second name: ')
+
+full_name= first_name + " "+last_name
+
+print(f"hellow, {full_name} welcome to python program")
+
